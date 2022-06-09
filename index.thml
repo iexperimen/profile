@@ -249,7 +249,7 @@
                 <!-- Change your bio -->
                 <p class="summary"><tag>#iExperiment</tag> is a small project, built for future asset storage.</p>
                 <!-- Change your link maps -->
-                <a style="display:inline-block;" class="btn" href="https://google.co.id/maps/" title="Maps" alt="Maps" target="_blank">
+                <a style="display:inline-block;" class="btn" href="https://google.com/maps/" title="Maps" alt="Maps" target="_blank">
                     <i class="fa fa-map-marker cbn" aria-hidden="true"></i>
                 </a>
                 <!-- Change your link e-mail -->
