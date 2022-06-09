@@ -1,1 +1,2 @@
-# profile
+# Profile
+Responsive Web Profile
